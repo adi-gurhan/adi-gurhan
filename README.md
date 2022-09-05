@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @adi-gurhan
+- 👋 Hi, I’m Adi
 - 👀 I’m interested in React-Native/React-Native VR/IOT APPS 
 - 🌱 I’m currently learning Arduino IoT Cloud to create IoT applications Runing on React-Native 
 -   
 -   
-I Consentrate on remakes noon decor is a remake of amazon with all functions working . 
+I Consentrate on remakes noon decor is a remake of amazon with all functions working. When you purchase this, all i will do is create
+admin account for you then grab your purchased domain 
+as well as your billing keys. Once you log in you can upload.
+your products set price in stock amount. once a purchase is made. You can then head on over to dashboard. View your orders. Who purchased your products.Then you can answer yes if shipped etc. Head on over to noon decor and view sample. If you need custome IOT products running in the cloud with it's on App we can work togather on that. reach out to me please. 
 - 💞️ 
 
 
