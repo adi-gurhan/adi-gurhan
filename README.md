@@ -1,17 +1,7 @@
 - 👋 Hi, I’m Adi
-- 👀 I’m interested in React-Native/React-Native VR/IOT APPS & Using Unity to connect VR.
-- 🌱 I’m currently learning Arduino IoT Cloud to create IoT applications Runing on React-Native 
--  
+- 👀 I’m interested in React-Native/React-Native
+- E-commerce Web Application with Stripe and Paypal Integration That i built please see bellow. It also has admin dashboard theres a companion IOS & Android APP 
 
-
-
--        
--
-<!---
-adi-gurhan/adi-gurhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![image](https://user-images.githubusercontent.com/59841689/182038264-fbf4caa7-60f3-4386-858d-4e3c89fd1425.png)
 
 <img width="454" alt="a" src="https://user-images.githubusercontent.com/59841689/188305178-0b9e49b3-fd22-404c-9d18-8cf437d91d5d.PNG">
 
